@@ -1,7 +1,7 @@
-tensorflow
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-streamlit
+    tensorflow
+    pandas
+    numpy
+    matplotlib
+    seaborn
+    scikit-learn
+    streamlit
