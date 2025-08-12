@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data & Models (if they are too large for GitHub)
+# You can use Git LFS for large files if needed
+data/
+*.h5
+*.pkl
+
+# OS specific
+.DS_Store
